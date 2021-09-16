@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/405568077.svg)](https://zenodo.org/badge/latestdoi/405568077)
+
+
+
 # Peacefair-PZEM-004T-
 reverse-engineered schematics and interface software 
 
